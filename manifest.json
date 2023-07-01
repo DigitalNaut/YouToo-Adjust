@@ -1,20 +1,20 @@
 {
-    "manifest_version": 2,
-    "name": "YouToo Adjust",
-    "version": "1.1.1",
-  
-    "description": "Adjusts the size of the YouTube player.",
-  
-    "icons": {
-      "48": "icons/TYA-48.png",
-      "96": "icons/TYA-96.png"
-    },
-  
-    "content_scripts": [
-      {
-        "matches": ["*://*.youtube.com/*"],
-        "css": ["adjust.css"],
-        "run_at": "document_start"
-      }
-    ]
-  }
+  "manifest_version": 2,
+  "name": "YouToo Adjust",
+  "version": "1.1.2",
+
+  "description": "Adjusts the size of the YouTube player to fill the screen. No more titles getting in the way of the full-screen experience!",
+
+  "icons": {
+    "48": "icons/YTA-48.png",
+    "96": "icons/YTA-96.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "css": ["adjust.css"],
+      "run_at": "document_start"
+    }
+  ]
+}

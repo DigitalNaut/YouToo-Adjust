@@ -1,7 +1,13 @@
-1.1.1
------
-+ Bugfix: Changed content script pattern matching to include the whole domain
+# Changelog
 
-1.1.0
------
-+ Bugfix: Specified runtime at document start to ensure script running on page load
+## 1.1.2
+
+- Update: Matching latest YouTube CSS class selectors
+
+## 1.1.1
+
+- Bugfix: Changed content script pattern matching to include the whole domain
+
+## 1.1.0
+
+- Bugfix: Specified runtime at document start to ensure script running on page load

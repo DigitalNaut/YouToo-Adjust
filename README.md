@@ -6,8 +6,8 @@ Adjusts the size of the YouTube player to fill the screen. No more titles gettin
 
 ## Links
 
-1. [Public listing](https://addons.mozilla.org/en-US/firefox/addon/youtooadjust/)
-2. [Developer page](https://addons.mozilla.org/en-US/developers/addon/youtooadjust/edit)
+- [Public listing](https://addons.mozilla.org/en-US/firefox/addon/youtooadjust/)
+- [Developer page](https://addons.mozilla.org/en-US/developers/addon/youtooadjust/edit)
 
 ## Version update instructions
 

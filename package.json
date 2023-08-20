@@ -1,0 +1,12 @@
+{
+  "name": "youtoo-screen-adjust",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "package": "pnpm exec web-ext build -s src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

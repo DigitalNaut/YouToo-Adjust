@@ -1,9 +1,9 @@
-ytd-watch-flexy[theater] #player-wide-container.ytd-watch-flexy  {
+ytd-watch-flexy[theater] #player-full-bleed-container.ytd-watch-flexy  {
   height: calc(100vh - 56px);
   max-height: 100vh;
 }
 
-ytd-watch-flexy[fullscreen] #player-wide-container.ytd-watch-flexy  {
+ytd-watch-flexy[fullscreen] #player-full-bleed-container.ytd-watch-flexy  {
   height: 100vh;
   max-height: 100vh;
 }
